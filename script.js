@@ -22,4 +22,4 @@ color1.addEventListener("input", setGradient);
 color2.addEventListener("input", setGradient);
 random.addEventListener("click", randomColor);
 
-// xdddd
+// 12121212121
